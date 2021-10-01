@@ -2,7 +2,7 @@ pipeline {
     agent any
     
     tools {
-        nodejs "shubham-node-tool"
+        nodejs "krishan-nodejs"
     }
     
     stages {
