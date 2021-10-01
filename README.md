@@ -1,6 +1,5 @@
 Calculator
 ---
-This is sample statement.
 
 <img src="Logotype primary.png" width="60%" height="60%" />
 
