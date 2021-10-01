@@ -2,7 +2,7 @@ pipeline {
     agent any
     
     tools {
-        nodejs "krishan-nodejs"
+        nodejs "22279-nodejs"
     }
     
     stages {
